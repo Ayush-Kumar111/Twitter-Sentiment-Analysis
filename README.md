@@ -1,2 +1,2 @@
 ![Dashboard-Mockup](Twitter-Sentiment-Analysis
-/Twitter Sentiment Analysis - NLP.ipynb)
+/Twitter Sentiment AnalysisNLP.ipynb)
