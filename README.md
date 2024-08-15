@@ -1,1 +1,2 @@
-![Dashboard-Mockup](Twitter Sentiment Analysis - NLP.ipynb)
+![Dashboard-Mockup](Twitter-Sentiment-Analysis
+/Twitter Sentiment Analysis - NLP.ipynb)
